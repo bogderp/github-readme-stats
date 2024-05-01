@@ -10,7 +10,7 @@ import { expect, it, describe, afterEach } from "@jest/globals";
 const data_langs = {
   data: {
     user: {
-      repositories: {
+      repositoriesContributedTo: {
         nodes: [
           {
             languages: {

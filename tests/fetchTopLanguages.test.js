@@ -13,7 +13,7 @@ afterEach(() => {
 const data_langs = {
   data: {
     user: {
-      repositories: {
+      repositoriesContributedTo: {
         nodes: [
           {
             name: "test-repo-1",
